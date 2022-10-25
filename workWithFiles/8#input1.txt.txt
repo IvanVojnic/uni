@@ -1,0 +1,1 @@
+ng currentStr = new String(tmpStr);     

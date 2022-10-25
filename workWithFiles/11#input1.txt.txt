@@ -1,0 +1,1 @@
+   myFile tmpObj = new myFile(nameFile, 

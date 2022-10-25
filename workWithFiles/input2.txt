@@ -1,0 +1,11 @@
+  }
+                String currentStr = new String(endFileText);
+                String nameFile = Integer.toString(j+1) + "input1";
+                myFile tmpObj = new myFile(nameFile, ".txt", currentStr);
+                filesArr.add(tmpObj);
+            } else {
+                String currentStr = new String(tmpStr);
+                String nameFile = Integer.toString(j+1) + "#input1.txt";
+                myFile tmpObj = new myFile(nameFile, ".txt", currentStr);
+                filesArr.add(tmpObj);
+                i--;

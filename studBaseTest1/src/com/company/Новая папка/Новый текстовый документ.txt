@@ -1,0 +1,3 @@
+file.length / count of bytes
+прочитать из input1.txt через Scanner
+use delimeter

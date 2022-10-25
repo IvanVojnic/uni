@@ -1,0 +1,1 @@
+= new myFile(nameFile, ".txt", currentSt
