@@ -1,3 +1,0 @@
-3;45;210;100;billable
-1;45;121;50;non-billable
-2;23;121;100;billable
