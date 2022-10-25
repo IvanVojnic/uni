@@ -1,3 +1,0 @@
-31;Oracle
-45;Microsoft
-23;Sun
